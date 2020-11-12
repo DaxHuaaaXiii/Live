@@ -11,4 +11,8 @@ Blue起初有参考这篇文章，受益匪浅，但是对于小白来说，错�
 
 [Android BLE低功耗蓝牙开发极简系列（二）之读写操作](http://www.jianshu.com/p/046c1f5a7163)
 
+#cankao
+#longgong
+#都是过程中代码压缩包，可忽略
+
 #
